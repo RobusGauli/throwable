@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<beginLog>
+	<messageLogs>
+		<message>
+			<network>YJ</network>
+			<direction><him><him></direction>
+			<senderIMID>djones12@yjenergy.com</senderIMID>
+			<senderEmail></senderEmail>
+			<senderYJID></senderYJID>
+			<recipientIMID>jmee4@yjenergy.com</recipientIMID>
+			<recipientEmail>john.mee@petrochina-usa.com</recipientEmail>
+			<recipientYJID>jmee4</recipientYJID>
+			<datetime>2016-08-05T12:01:04</datetime>
+			<content>Good Morning</content>
+			<channel>indv</channel>
+		</message>
+		<message>
+			<network>YJ</network>
+			<direction>inbound</direction>
+			<senderIMID>djones12@yjenergy.com</senderIMID>
+			<senderEmail></senderEmail>
+			<senderYJID></senderYJID>
+			<recipientIMID>jmee4@yjenergy.com</recipientIMID>
+			<recipientEmail>john.mee@petrochina-usa.com</recipientEmail>
+			<recipientYJID>jmee4</recipientYJID>
+			<datetime>2016-08-05T12:15:28</datetime>
+			<content><bda><bda></content>
+			<channel>indv</channel>
+		</message>
+        	</messageLogs>
+
+</beginLog>
